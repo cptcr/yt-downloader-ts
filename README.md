@@ -14,8 +14,8 @@ This is a command-line tool to download YouTube videos in various formats (MP3, 
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/cptcr/yt-downloader-ts/
+   cd https://github.com/cptcr/yt-downloader-ts/
    ```
 
 2. **Install Dependencies**
